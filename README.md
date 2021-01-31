@@ -1,1 +1,2 @@
-Prueba del backend realizado en laravel,lee un endpoint y pagina los resultados obtenidos
+Backend con laravel
+1. lee los datos obtenidos del una url y pagina los resultados y lo retorna
